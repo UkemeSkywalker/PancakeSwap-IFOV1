@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/proxy/Initializable.sol";
 import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
 
 import "./IBEP20.sol";
-import "bsc-library/contracts/SafeBEP20.sol";
+import "./SafeBEP20.sol";
 
 /**
  * @title IFO
